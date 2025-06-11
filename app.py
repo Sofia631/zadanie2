@@ -3,4 +3,4 @@ def add(a, b):
     return a + b
 
 def main():
-    print("Сумма:", add(5, 3))
+    print("Сумма:", add(10, 20))
